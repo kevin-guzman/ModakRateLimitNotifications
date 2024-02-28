@@ -1,0 +1,4 @@
+**/mock_.*.go
+**/mocks/
+**/docs/
+./internal/infrastructure/notification_adaptor.go
